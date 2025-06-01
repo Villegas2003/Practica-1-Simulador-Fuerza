@@ -1,4 +1,3 @@
-```markdown
 # Práctica 1 – Simulador de Fuerza Eléctrica ⚡
 
 Este proyecto fue desarrollado como parte de la práctica de Física II del curso FIS-02 en la Universidad CENFOTEC. El objetivo es simular la fuerza eléctrica entre dos cargas puntuales usando Python.
@@ -19,14 +18,12 @@ El usuario ingresa las cargas y coordenadas. El programa imprime el vector de fu
 ## 📂 Estructura del Proyecto
 
 ```
-
 Practica-1/
 ├── main.py             # Script principal
 ├── requirements.txt    # Dependencias
 ├── README.md           # Este archivo
 └── assets/             # (Opcional) Carpeta para guardar gráficos
-
-````
+```
 
 ---
 
@@ -38,7 +35,7 @@ Practica-1/
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 3. Ejecuta el script:
 
@@ -48,10 +45,10 @@ python main.py
 
 4. Ingresa los valores solicitados por consola:
 
-* Carga Q1 (en Coulombs)
-* Carga Q2 (en Coulombs)
-* Coordenada X de Q2
-* Coordenada Y de Q2
+- Carga Q1 (en Coulombs)
+- Carga Q2 (en Coulombs)
+- Coordenada X de Q2
+- Coordenada Y de Q2
 
 Se imprimirá el vector de fuerza y se abrirá una ventana con la representación gráfica.
 
@@ -59,9 +56,11 @@ Se imprimirá el vector de fuerza y se abrirá una ventana con la representació
 
 ## 👤 Autor
 
-**Jeremy Villegas Rodríguez**
-Universidad CENFOTEC
-Curso: Física II (FIS-02)
+**Jeremy Villegas Rodríguez**  
+Universidad CENFOTEC  
+Curso: Física II (FIS-02)  
 Sección: FCV1 | Periodo: 2C-2025
 
 ---
+
+
