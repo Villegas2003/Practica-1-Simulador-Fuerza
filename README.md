@@ -22,7 +22,6 @@ Practica-1/
 ├── main.py             # Script principal
 ├── requirements.txt    # Dependencias
 ├── README.md           # Este archivo
-└── assets/             # (Opcional) Carpeta para guardar gráficos
 ```
 
 ---
